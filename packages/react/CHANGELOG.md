@@ -1,5 +1,11 @@
 # @ignite-andre/react
 
+## 3.0.0
+
+### Major Changes
+
+- Add Tooltip
+
 ## 2.0.0
 
 ### Major Changes
