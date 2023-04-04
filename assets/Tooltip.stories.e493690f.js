@@ -1,0 +1,2 @@
+import{e as a,B as o}from"./index.38aa8ba3.js";import{j as r}from"./jsx-runtime.e14be6c8.js";import"./index.c0c37fe0.js";import"./iframe.cff04beb.js";import"./index.a8fb3a21.js";const m={title:"Overlay/Tooltip",component:a,args:{},decorators:[t=>r(o,{css:{marginTop:"$8",display:"flex",justifyContent:"center",alignItems:"center"},children:t()})]},p={args:{content:"26",available:!0}},c={args:{content:"21",available:!1}},d=["Primary","Unavailable"];export{p as Primary,c as Unavailable,d as __namedExportsOrder,m as default};
+//# sourceMappingURL=Tooltip.stories.e493690f.js.map
